@@ -3,3 +3,11 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@300&display=swap');
+
+
+#hero {
+    background: url('../src/assets/desktop/image-hero.jpg') no-repeat center center/cover;
+    height: 550px;
+    z-index: -1;
+}
+
