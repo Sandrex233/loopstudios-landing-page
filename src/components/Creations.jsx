@@ -166,7 +166,7 @@ const Creations = () => {
                         </span>
                     </div>
 
-                    <div className='pt-5 flex items-center justify-center'>
+                    <div className='pt-5 flex items-center justify-center pb-20'>
                         <button className='md:hidden block p-3 border-black border-2 font-medium text-black tracking-[.3em] px-10 hover:bg-black hover:text-white'>SEE ALL</button>
                     </div>
 

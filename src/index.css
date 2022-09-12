@@ -11,3 +11,20 @@
     z-index: -1;
 }
 
+
+.faceb:hover {
+    filter: invert(66%) sepia(62%) saturate(5341%) hue-rotate(203deg) brightness(100%) contrast(101%);
+
+}
+
+.twt:hover {
+    filter: invert(61%) sepia(60%) saturate(1897%) hue-rotate(167deg) brightness(103%) contrast(101%);
+}
+
+.pnt:hover {
+    filter: invert(39%) sepia(99%) saturate(7078%) hue-rotate(357deg) brightness(97%) contrast(133%);
+}
+
+.insta:hover {
+    filter: invert(10%) sepia(98%) saturate(5762%) hue-rotate(246deg) brightness(110%) contrast(112%);
+}
